@@ -1,0 +1,45 @@
+{
+  "SignUp Information": [
+    {
+      "firstname": "abcd",
+      "lastname": "yfdc",
+      "email": "abcd@gmail.com",
+      "password": "615361",
+      "confirm_password": "615361"
+    },
+    {
+      "firstname": "kjhj",
+      "lastname": "fdgg",
+      "email": "fdgg@gmail.com",
+      "password": "78784",
+      "confirm_password": "78784"
+    },
+    {
+      "firstname": "pioui",
+      "lastname": "asds",
+      "email": "ytfsd@gmail.com.com",
+      "password": "djhg",
+      "confirm_password": "djhg"
+    }
+  ],
+  "Addresses": [
+    {
+      "address1": "Abi Ram",
+      "address2": "Chennai",
+      "address3": "Anna Nagar"
+    },
+    {
+      "address1": "Adc jhhfj",
+      "address2": "Texas",
+      "address3": "ashdhgash"
+    }
+  ],
+  "Company": "Luma",
+  "phone_number": "0123456354627",
+  "country": "India",
+  "city": "Chennai",
+  "state": "TamilNadu",
+  "postalcode": "600005",
+  "WomenProduct": "Circe Hooded Ice Fleece",
+  "MenProduct": "Montana Wind Jacket"
+}
